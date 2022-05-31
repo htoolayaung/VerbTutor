@@ -1,0 +1,50 @@
+table ,th ,td {
+    border: 1px solid;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px transparent;
+    background-color: white;
+    border-radius: 24px;
+}
+th {
+    height: 50px;
+    background-color: rgb(169, 240, 240);
+    color: white;
+}
+td {
+    text-align: center;
+}
+.ntpgbt {
+    border-radius: 24px;
+    background-color: rgb(0, 255, 247);
+    border: none;
+    color: chocolate;
+    padding: 1%;
+    margin: 2%;
+    margin-left: 85%;
+
+}
+th, td {
+    border-bottom: 1px solid #ddd;
+  }
+  tr:hover {background-color: rgb(128, 128, 128);}   
+  .body {
+      background-color: pink;
+  }
+  .verb {
+      border-top-left-radius: 24px;
+  }
+  .verb3 {
+      border-top-right-radius: 24px;
+  }
+  p {
+      padding-left: 85%;
+      color: black;
+  }
+  h6 {
+      text-align: center;
+      font-size: large;
+      color: rgb(63, 190, 212);
+  }
